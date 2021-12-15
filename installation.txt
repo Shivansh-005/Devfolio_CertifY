@@ -6,3 +6,4 @@ yarn install in client folder
 npm install in client folder
 npm start in client folder
 
+truffle deploy --network ropsten --reset
