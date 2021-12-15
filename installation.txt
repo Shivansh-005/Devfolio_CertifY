@@ -1,4 +1,4 @@
-npm install yarn (global) directory home
+npm install yarn (global) directory home => sudo npm install -g yarn
 cd client
 yarn install
 delete line with fsevents from package.json
