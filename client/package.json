@@ -1,0 +1,39 @@
+{
+  "name": "file-timestamper",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.25",
+    "@fortawesome/free-solid-svg-icons": "^5.11.2",
+    "@fortawesome/react-fontawesome": "^0.1.7",
+    "crypto-js": "^3.1.9-1",
+    "fsevents": "^2.0.7",
+    "ipfs-api": "^26.1.2",
+    "jspdf": "^1.5.3",
+    "node-gyp": "^5.0.3",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-particles-js": "^2.4.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.2.0",
+    "shards-react": "^1.0.3",
+    "three": "^0.110.0",
+    "web3": "^1.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "clean": "rm -rf build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

@@ -1,0 +1,29 @@
+#appNavBar {
+  background-color: #023782;
+}
+
+#logoNavBar {
+  padding: 3px;
+  border-radius: 100px;
+  background: white;
+  width: 45px;
+  margin-right: 8px;
+}
+
+#appNavBar span {
+  color: #7dacf2;
+}
+
+#appNavBar .navbar-brand {
+  padding: 0;
+  padding-top:3px;
+}
+
+.navLink {
+  color: #023782;
+  font-weight: 700;
+}
+
+.theNavLink {
+  text-align: center;
+}

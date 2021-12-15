@@ -1,0 +1,14 @@
+[
+  {
+    "q": "What happens to my file? Does it get hashed in a remote server? Where are you sending it exactly?",
+    "a": "No. The file is hashed locally, it does not leave your browser. Only the file's metadata (hash and size) are sent over the wire. Nobody can see the exact file that you certified but just its digital signature."
+  },
+  {
+    "q": "What does NOTARX mean?",
+    "a": "It stands for \"NOTARy Xpress\", so notary express. This because the goal of this dapp is to notarize files very quickly and easily"
+  },
+  {
+    "q": "My question is not listed here, what should I do?",
+    "a": "Send an email to fede--at--blockchainlion--dot-- com ! And I'll do my best to get back to you."
+  }
+]

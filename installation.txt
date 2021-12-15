@@ -1,0 +1,8 @@
+npm install yarn (global) directory home
+cd client
+yarn install
+delete line with fsevents from package.json
+yarn install in client folder
+npm install in client folder
+npm start in client folder
+

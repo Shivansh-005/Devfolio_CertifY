@@ -1,0 +1,60 @@
+/*
+ PALETTE  https://colorwise.io/172665/digital-agency-search-by-fulfilli
+ */
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700|Saira:400,500,700&display=swap');
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Saira', sans-serif;
+}
+
+.App {
+
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+/* NEW STYLES */
+
+#fileCert {
+  background-color: #f3f3f3;
+  padding: 15px;
+}
+
+
+.footerText {
+  margin-top: 5vh;
+  font-size: 0.7rem;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.footerText2 {
+  margin-top: 0;
+  font-size: 0.7rem;
+  text-align: center;
+}
+
+/* END AUTHOR WRITTEN STYLES */
