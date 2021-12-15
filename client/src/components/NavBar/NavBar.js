@@ -101,16 +101,13 @@ class NavBar extends Component {
 
             </Nav>
 
-            <Nav navbar className="ml-auto">
-{/*              <NavItem>
-                <NavLink className={"theNavLink"} href="#">
-                  <FontAwesomeIcon icon={faInfoCircle} />
-                </NavLink>
-              </NavItem> */}
+                        <Nav navbar className="ml-auto">
+{          <NavItem>
+
+ <button type="button" ><a href="http://20.121.38.215:3000/faq">View Certificates</a></button>
+              </NavItem> }
               <NavItem>
-                <NavLink className={"theNavLink"} href="/">
-                  <FontAwesomeIcon icon={faHome} />
-                </NavLink>
+               <button type="button" ><a href="http://20.121.38.215:3000/about">Verification Portal</a></button>
               </NavItem>
             </Nav>
           </Collapse>
